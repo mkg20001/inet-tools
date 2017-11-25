@@ -2,7 +2,7 @@
   "name": "inet-tools",
   "version": "0.1.0",
   "description": "inet lib for aton, ntoa, ntop, pton",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "aegir test",
     "lint": "aegir lint",
